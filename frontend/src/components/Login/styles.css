@@ -1,0 +1,6 @@
+.container{
+    background: #6C6C6C;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
