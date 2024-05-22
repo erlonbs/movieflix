@@ -1,6 +1,40 @@
-.container{
-    background: #6C6C6C;
-display: flex;
-flex-direction: column;
-align-items: center;
+.container {
+  background: #6c6c6c;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 15px 11px; 
+  height: 100%;
+}
+
+.container h1 {
+  font-family: "Open Sans";
+  font-weight: 400;
+  color: white;
+  font-size: 36px;
+  text-transform: uppercase;
+  line-height: 49.03px;
+  letter-spacing: -0.015em;
+  text-align: center;
+}
+
+.container input {
+  width: 265px;
+  height: 47px;
+  border-radius: 4px;
+  margin-bottom: 15px;
+}
+
+.container button {
+  width: 272px;
+  height: 50px;
+  border-radius: 4px;
+  background: #ffc700;
+  font-family: Open Sans;
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 50px;
+  margin-top: 30px;
 }
